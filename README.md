@@ -19,7 +19,7 @@ The code for the experiment with double-precision arithmetic ([`test_summation_a
 
 ### References
 
- [1] M. Fasi and M. Mikaitis. [*Algorithms for stochastically rounded elementary arithmetic operations in IEEE 754 floating-point arithmetic*](http://eprints.maths.manchester.ac.uk/2758/), Technical Report 2020.9, Manchester Institute for Mathematical Sciences, The University of Manchester, UK, Oct 2020.
+ [1] M. Fasi and M. Mikaitis. [*Algorithms for stochastically rounded elementary arithmetic operations in IEEE 754 floating-point arithmetic*](https://ieeexplore.ieee.org/document/9387551), IEEE Transactions on Emerging Topics in Computing. Early Access. Mar. 2021.
 
 ### License
 
